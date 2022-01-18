@@ -134,3 +134,5 @@ data/*
 !data/*.gitkeep
 
 landsat_sas.txt
+
+dask-worker-space/
